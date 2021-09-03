@@ -1,3 +1,3 @@
 # Tips and Tricks
 
-## InnerWidth & InnerHeight
+## 1. InnerWidth & InnerHeight
